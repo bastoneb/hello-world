@@ -1,4 +1,9 @@
 /* Add screen styles below */
 
-body {background: #aaa;
+body {background: white;
+font-family: Arial, Helvetica, sans-serif; 
+}
+
+img {
+    width: 100%;
 }
